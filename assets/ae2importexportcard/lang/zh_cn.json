@@ -1,0 +1,7 @@
+{
+  "itemGroup.ae2importexportcard" : "AE2 输入 输出 功能卡",
+  "item.ae2importexportcard.import_card": "输入功能卡",
+  "item.ae2importexportcard.export_card": "输出功能卡",
+  "gui.ae2importexportcard.whitelist": "白名单",
+  "gui.ae2importexportcard.blacklist": "黑名单"
+}

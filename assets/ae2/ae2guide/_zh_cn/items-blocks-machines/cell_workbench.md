@@ -1,0 +1,35 @@
+---
+navigation:
+  parent: 物品-方块-机器/物品-方块-机器索引.md
+  title: 元件工作台
+  icon: cell_workbench
+  position: 310
+categories:
+- 机器
+item_ids:
+- ae2:cell_workbench
+---
+
+# 元件工作台
+
+<BlockImage id="cell_workbench" scale="8" />
+
+元件工作台允许你配置[存储元件](storage_cells.md)和<ItemLink id="view_cell" />。
+
+你可以添加[升级卡](upgrade_cards.md)并配置“分区”来过滤元件将要存储的物品。
+
+即使你实际上没有某种物品，也可以从JEI/REI中将物品和流体拖入槽位。
+
+使用流体容器（如桶或流体储罐）右键单击可将该流体设置为过滤器，而不是桶或储罐物品本身。
+
+## 设置
+
+元件工作台左上角有几个按钮：
+
+*   可以根据元件的现有内容对其进行分区
+*   可以清除元件的分区设置
+*   可以设置工作台在移除元件时保留分区设置，以便你在不同元件之间复制设置。
+
+## 合成配方
+
+<RecipeFor id="cell_workbench" />
