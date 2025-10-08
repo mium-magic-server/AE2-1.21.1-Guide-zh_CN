@@ -1,11 +1,11 @@
 ---
 navigation:
-  parent: 物品-方块-机器/物品-方块-机器索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 充能赛特斯石英水晶
   icon: charged_certus_quartz_crystal
   position: 010
 categories:
-- 杂项 材料 方块
+- 杂项材料方块
 item_ids:
 - ae2:charged_certus_quartz_crystal
 ---

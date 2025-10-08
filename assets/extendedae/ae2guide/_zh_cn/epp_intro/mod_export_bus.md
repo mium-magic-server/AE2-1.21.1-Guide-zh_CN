@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-    上级: epp_intro/epp_intro-index.md
+    parent: epp_intro/epp_intro-index.md
 
-    标题: ME模组输出总线
+    title: ME模组输出总线
 
-    图标: extendedae:mod_export_bus
+    icon: extendedae:mod_export_bus
 
-类别:
+categories:
 
 - 扩展设备
 
-物品ID:
+item_ids:
 
 - extendedae:mod_export_bus
 

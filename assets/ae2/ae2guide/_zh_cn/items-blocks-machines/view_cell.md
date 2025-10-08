@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 物品-方块-机器/物品-方块-机器索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 显示元件
   icon: view_cell
   position: 410
@@ -8,7 +8,6 @@ categories:
 - 工具
 item_ids:
 - ae2:view_cell
-
 ---
 
 # 显示元件

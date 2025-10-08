@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 示例配置/示例配置索引.md
+  parent: example-setups/example-setups-index.md
   title: 专用本地存储
   icon: drive
 ---

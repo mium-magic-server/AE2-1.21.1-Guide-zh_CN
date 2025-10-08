@@ -19,9 +19,9 @@ navigation:
 要开始使用应用能源 2，你首先需要找到一颗[陨石](ae2-mechanics/meteorites.md)。它们相当常见，并且往往在地形上留下巨大的坑洞，所以你可能在旅途中已经遇到过一颗。
 如果还没有，你可以制作一个<ItemLink id="meteorite_compass" />，它会指向最近的<ItemLink id="mysterious_cube" />。
 
-找到陨石后，挖掘至其中心。你会发现赛特斯石英簇、赛特斯石英芽、各种类型的[赛特斯芽块](items-blocks-machines/budding_certus.md)，以及中心的一个神秘方块。
+找到陨石后，挖掘至其中心。你会发现赛特斯石英簇、赛特斯石英芽、各种类型的[赛特斯石英母岩](items-blocks-machines/budding_certus.md)，以及中心的一个神秘方块。
 
-挖掘赛特斯石英簇和你找到的任何赛特斯石英块。你也可以拾取赛特斯芽块，但如果没有精准采集附魔，它们会降低 1 级品质。
+挖掘赛特斯石英簇和你找到的任何赛特斯石英块。你也可以收集赛特斯石英母岩，但如果没有精准采集附魔，它们会降低 1 级品质。
 
 不要破坏任何无瑕的赛特斯芽块，因为即使使用精准采集，它们也会降级为有瑕的赛特斯芽块，并且无法修复回无瑕品质。
 
@@ -33,7 +33,7 @@ navigation:
 <ImportStructure src="assets/assemblies/budding_certus_1.snbt" />
 </GameScene>
 
-赛特斯石英芽会从[赛特斯芽块](items-blocks-machines/budding_certus.md)中长出，类似于紫水晶。如果你破坏一个未完全生长的芽，它会掉落一个<ItemLink id="certus_quartz_dust" />，不受时运附魔影响。如果你破坏一个完全生长的簇，它会掉落四个<ItemLink id="certus_quartz_crystal" />，时运附魔会增加这个数量。
+赛特斯石英芽会从[赛特斯石英母岩](items-blocks-machines/budding_certus.md)中长出，类似于紫水晶。如果你破坏一个未完全生长的芽，它会掉落一个<ItemLink id="certus_quartz_dust" />，不受时运附魔影响。如果你破坏一个完全生长的簇，它会掉落四个<ItemLink id="certus_quartz_crystal" />，时运附魔会增加这个数量。
 
 赛特斯芽块有 4 个品质等级：无瑕、有瑕、开裂、受损。
 
@@ -57,7 +57,7 @@ navigation:
 
 如果你没有足够的石英来制作<ItemLink id="energy_acceptor" />或<ItemLink id="vibration_chamber" />，你可以制作一个<ItemLink id="crank" />并将其安装在加速器的末端。
 
-自动收获赛特斯石英的方法[在此处描述](example-setups/simple-certus-farm.md)。
+自动收获赛特斯石英的方法[在这里](example-setups/simple-certus-farm.md)。
 
 ## 关于福鲁伊克斯水晶的简短说明
 
@@ -65,7 +65,7 @@ navigation:
 
 如果你还没有制作，那么生产<ItemLink id="charged_certus_quartz_crystal" />需要<ItemLink id="charger" />。
 
-## 压印一些处理器
+## 压印器
 
 在掠夺陨石的过程中，你会从破坏神秘方块中获得四个“压印模板”。这些模板在<ItemLink id="inscriber" />中用于制作三种类型的处理器。
 

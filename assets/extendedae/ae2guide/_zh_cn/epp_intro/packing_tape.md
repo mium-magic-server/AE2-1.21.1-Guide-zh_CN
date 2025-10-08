@@ -57,25 +57,15 @@ ME封装胶带可将世界中的ME设备打包为封装设备物品
 
 
 |                                      设备                                       |                                 名称                                  |
-
 |:-------------------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-
 |    <ItemImage id="extendedae:ex_interface_part" scale="3"></ItemImage>     |    <ItemLink id="extendedae:ex_interface_part"></ItemLink>     |
-
 | <ItemImage id="extendedae:ex_pattern_provider_part" scale="3"></ItemImage> | <ItemLink id="extendedae:ex_pattern_provider_part"></ItemLink> |
-
 |       <ItemImage id="extendedae:ex_interface" scale="3"></ItemImage>       |       <ItemLink id="extendedae:ex_interface"></ItemLink>       |
-
 |   <ItemImage id="extendedae:ex_pattern_provider" scale="3"></ItemImage>    |   <ItemLink id="extendedae:ex_pattern_provider"></ItemLink>    |
-
 |            <ItemImage id="ae2:cable_interface" scale="3"></ItemImage>             |            <ItemLink id="ae2:cable_interface"></ItemLink>             |
-
 |         <ItemImage id="ae2:cable_pattern_provider" scale="3"></ItemImage>         |         <ItemLink id="ae2:cable_pattern_provider"></ItemLink>         |
-
 |               <ItemImage id="ae2:interface" scale="3"></ItemImage>                |               <ItemLink id="ae2:interface"></ItemLink>                |
-
 |            <ItemImage id="ae2:pattern_provider" scale="3"></ItemImage>            |            <ItemLink id="ae2:pattern_provider"></ItemLink>            |
-
 |                 <ItemImage id="ae2:drive" scale="3"></ItemImage>                  |                 <ItemLink id="ae2:drive"></ItemLink>                  |
 
 

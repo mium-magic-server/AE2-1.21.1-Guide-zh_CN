@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-    上级: [epp_intro/epp_intro-index.md](epp_intro/epp_intro-index.md)
+    parent: epp_intro/epp_intro-index.md
 
-    标题: 恩特罗碎片
+    title: 恩特罗碎片
 
-    图标: extendedae:entro_shard
+    icon: extendedae:entro_shard
 
-分类:
+categories:
 
-- 恩特罗系统
+- entro system
 
-物品ID:
+item_ids:
 
 - extendedae:entro_shard
 

@@ -5,7 +5,7 @@ navigation:
   icon: quartz_glass
   position: 010
 categories:
-- 其他材料方块
+- 杂项材料方块
 item_ids:
 - ae2:quartz_glass
 - ae2:quartz_vibrant_glass

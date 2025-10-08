@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-    上级目录: epp_intro/epp_intro-index.md
+    parent: epp_intro/epp_intro-index.md
 
-    标题: ME装罐机
+    title: ME装罐机
 
-    图标: extendedae:caner
+    icon: extendedae:caner
 
-分类:
+categories:
 
 - 扩展设备
 
-物品ID:
+item_ids:
 
 - extendedae:caner
 

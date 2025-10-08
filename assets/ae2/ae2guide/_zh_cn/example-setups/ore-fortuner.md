@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 示例装置/示例装置索引.md
+  parent: example-setups/example-setups-index.md
   title: 自动矿石时运处理装置
   icon: minecraft:raw_iron
 ---

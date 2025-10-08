@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 示例设置/示例设置索引.md
+  parent: example-setups/example-setups-index.md
   title: 高级赛特斯石英农场
   icon: certus_quartz_crystal
   position: 120

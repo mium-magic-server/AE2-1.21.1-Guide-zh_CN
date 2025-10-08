@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 物品-方块-机器/物品-方块-机器索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 陨石储罐
   icon: sky_stone_tank
   position: 310
@@ -8,6 +8,7 @@ categories:
 - 机器
 item_ids:
 - ae2:sky_stone_tank
+---
 
 # 陨石储罐
 

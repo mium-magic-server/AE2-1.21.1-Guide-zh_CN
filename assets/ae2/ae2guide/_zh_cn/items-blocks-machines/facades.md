@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 物品-方块-机器/物品-方块-机器索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 伪装板
   icon: facade
   icon_components:

@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-    上级页面: epp_intro/epp_intro-index.md
+    parent: epp_intro/epp_intro-index.md
 
-    标题: ME扩展输入/输出总线
+    title: ME扩展输入/输出总线
 
-    图标: extendedae:ex_import_bus_part
+    icon: extendedae:ex_import_bus_part
 
-分类:
+categories:
 
 - 扩展设备
 
-物品ID:
+item_ids:
 
 - extendedae:ex_import_bus_part
 

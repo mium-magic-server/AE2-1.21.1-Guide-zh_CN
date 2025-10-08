@@ -1,6 +1,6 @@
 ---
 
-导航:
+navigation:
 
   parent: expandedae-index.md
 
@@ -10,11 +10,11 @@
 
   position: 5
 
-分类:
+categories:
 
-  - expandedae
+  - 扩展AE
 
-物品ID:
+item_ids:
 
 - expandedae:auto_complete_card
 

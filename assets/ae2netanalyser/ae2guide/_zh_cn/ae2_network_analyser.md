@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-    上级页面: ae2:items-blocks-machines/items-blocks-machines-index.md
+    parent: ae2:items-blocks-machines/items-blocks-machines-index.md
 
-    图标: ae2netanalyser:network_analyser
+    icon: ae2netanalyser:network_analyser
 
-    标题: ME网络分析仪
+    title: ME网络分析仪
 
-分类:
+categories:
 
 - 工具
 
-物品ID:
+item_ids:
 
 - ae2netanalyser:network_analyser
 

@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 物品-方块-机器/物品-方块-机器索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 无线终端
   icon: wireless_crafting_terminal
   position: 410

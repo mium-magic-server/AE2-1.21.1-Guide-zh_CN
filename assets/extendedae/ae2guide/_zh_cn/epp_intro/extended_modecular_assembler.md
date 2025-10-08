@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-    父级: epp_intro/epp_intro-index.md
+    parent: epp_intro/epp_intro-index.md
 
-    标题: 扩展分子装配室
+    title: 扩展分子装配室
 
-    图标: extendedae:ex_molecular_assembler
+    icon: extendedae:ex_molecular_assembler
 
-类别:
+categories:
 
 - 扩展设备
 
-物品ID:
+item_ids:
 
 - extendedae:ex_molecular_assembler
 

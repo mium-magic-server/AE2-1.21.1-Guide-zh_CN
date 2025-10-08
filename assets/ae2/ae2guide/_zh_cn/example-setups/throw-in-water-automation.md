@@ -1,8 +1,9 @@
 ---
 navigation:
-  parent: 示例配置/示例配置索引.md
+  parent: example-setups/example-setups-index.md
   title: 投掷入水自动化
   icon: fluix_crystal
+---
 
 # 投掷入水配方自动化
 

@@ -113,25 +113,14 @@ ME能源存储单元是应用通量模组中主要的能量存储方式。它们
 
 
 | 单元                                   | 单元FE容量（默认） |
-
 |----------------------------------------|------------------------------:|
-
 | <ItemLink id="appflux:fe_1k_cell" />   |                 1,073,741,824 |
-
 | <ItemLink id="appflux:fe_4k_cell" />   |                 4,294,967,296 |
-
 | <ItemLink id="appflux:fe_16k_cell" />  |                17,179,869,184 |
-
 | <ItemLink id="appflux:fe_64k_cell" />  |                68,719,476,736 |
-
 | <ItemLink id="appflux:fe_256k_cell" /> |               274,877,906,944 |
-
 | <ItemLink id="appflux:fe_1m_cell" />   |             1,099,511,627,776 |
-
 | <ItemLink id="appflux:fe_4m_cell" />   |             4,398,046,511,104 |
-
 | <ItemLink id="appflux:fe_16m_cell" />  |            17,592,186,044,416 |
-
 | <ItemLink id="appflux:fe_64m_cell" />  |            70,368,744,177,664 |
-
 | <ItemLink id="appflux:fe_256m_cell" /> |           281,474,976,710,656 |

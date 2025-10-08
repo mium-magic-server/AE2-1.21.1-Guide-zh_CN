@@ -30,7 +30,7 @@ item_ids:
 
 <BlockImage id="extendedae:wireless_connect" scale="6"></BlockImage>
 
-<ItemImage id="extendedae:wireless_tool" scale="6"></BlockImage>
+<ItemImage id="extendedae:wireless_tool" scale="6"></ItemImage>
 
 </Row>
 

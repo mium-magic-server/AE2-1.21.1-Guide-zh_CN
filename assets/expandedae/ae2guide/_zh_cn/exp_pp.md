@@ -1,20 +1,20 @@
 ---
 
-导航:
+navigation:
 
-  上级页面: expandedae-index.md
+  parent: expandedae-index.md
 
-  标题: 扩展样板供应器
+  title: 扩展样板供应器
 
-  图标: exp_pattern_provider
+  icon: exp_pattern_provider
 
-  位置: 0
+  position: 0
 
-类别:
+categories:
 
-  - expandedae
+  - 扩展AE
 
-物品ID:
+item_ids:
 
   - expandedae:exp_pattern_provider
 

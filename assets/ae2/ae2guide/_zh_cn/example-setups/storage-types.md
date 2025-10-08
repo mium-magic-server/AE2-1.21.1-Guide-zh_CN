@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 示例配置/示例配置索引.md
+  parent: example-setups/example-setups-index.md
   title: 存储类型与网络整洁性
   icon: drive
 ---

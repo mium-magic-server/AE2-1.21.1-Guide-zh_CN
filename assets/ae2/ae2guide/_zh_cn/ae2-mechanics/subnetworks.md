@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: ae2机制/ae2机制索引.md
+  parent: ae2-mechanics/ae2-mechanics-index.md
   title: 子网络
 ---
 

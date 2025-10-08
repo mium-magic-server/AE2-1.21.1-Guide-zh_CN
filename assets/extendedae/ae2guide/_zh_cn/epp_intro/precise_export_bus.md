@@ -1,6 +1,6 @@
 ---
 
-导航:
+navigation:
 
     parent: epp_intro/epp_intro-index.md
 
@@ -8,11 +8,11 @@
 
     icon: extendedae:precise_export_bus
 
-分类:
+categories:
 
 - 扩展设备
 
-物品ID:
+item_ids:
 
 - extendedae:precise_export_bus
 

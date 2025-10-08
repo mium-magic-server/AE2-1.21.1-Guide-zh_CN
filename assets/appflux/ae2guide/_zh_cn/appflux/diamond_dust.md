@@ -1,6 +1,6 @@
 ---
 
-导航:
+navigation:
 
   parent: appflux/appflux-index.md
 
@@ -8,11 +8,11 @@
 
   icon: appflux:diamond_dust
 
-分类:
+categories:
 
 - 通量材料
 
-物品ID:
+item_ids:
 
 - appflux:diamond_dust
 

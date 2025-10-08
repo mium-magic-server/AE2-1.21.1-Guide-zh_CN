@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 示例配置/示例配置索引.md
+  parent: example-setups/example-setups-index.md
   title: 桶清空装置
   icon: minecraft:bucket
 ---

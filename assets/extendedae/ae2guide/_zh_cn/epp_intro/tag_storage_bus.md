@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-    上级: epp_intro/epp_intro-index.md
+    parent: epp_intro/epp_intro-index.md
 
-    标题: ME标签存储总线
+    title: ME标签存储总线
 
-    图标: extendedae:tag_storage_bus
+    icon: extendedae:tag_storage_bus
 
-分类:
+categories:
 
 - 扩展设备
 
-物品ID:
+item_ids:
 
 - extendedae:tag_storage_bus
 

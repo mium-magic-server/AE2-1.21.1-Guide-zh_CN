@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 示例配置/示例配置索引.md
+  parent: example-setups/example-setups-index.md
   title: 自动调控圆石生成器
   icon: minecraft:cobblestone
 ---

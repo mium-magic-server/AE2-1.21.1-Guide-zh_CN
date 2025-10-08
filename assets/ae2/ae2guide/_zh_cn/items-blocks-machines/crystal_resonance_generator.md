@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 物品-方块-机械/物品-方块-机械索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 水晶谐振发电机
   icon: crystal_resonance_generator
   position: 110

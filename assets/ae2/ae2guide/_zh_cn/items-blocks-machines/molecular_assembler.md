@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 物品-方块-机器/物品-方块-机器索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 分子装配室
   icon: molecular_assembler
   position: 310
@@ -8,6 +8,7 @@ categories:
 - 机器
 item_ids:
 - ae2:molecular_assembler
+---
 
 # 分子装配室
 

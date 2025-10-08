@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 示例配置/示例配置索引.md
+  parent: example-setups/example-setups-index.md
   title: 简易赛特斯农场
   icon: certus_quartz_crystal
   position: 110

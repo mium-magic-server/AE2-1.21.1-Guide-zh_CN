@@ -1,6 +1,6 @@
 ---
 
-导航:
+navigation:
 
     parent: epp_intro/epp_intro-index.md
 
@@ -8,11 +8,11 @@
 
     icon: extendedae:entro_block
 
-分类:
+categories:
 
 - 熵变系统
 
-物品ID:
+item_ids:
 
 - extendedae:entro_block
 

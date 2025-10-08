@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-    上级页面: epp_intro/epp_intro-index.md
+    parent: epp_intro/epp_intro-index.md
 
-    标题: ME扩展样板供应器
+    title: ME扩展样板供应器
 
-    图标: extendedae:ex_pattern_provider
+    icon: extendedae:ex_pattern_provider
 
-类别:
+categories:
 
 - 扩展设备
 
-物品ID:
+item_ids:
 
 - extendedae:ex_pattern_provider
 

@@ -1,6 +1,6 @@
 ---
 navigation:
-  parent: 物品-方块-机器/物品-方块-机器索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 陨石罗盘
   icon: meteorite_compass
   position: 410
@@ -8,7 +8,6 @@ categories:
 - 工具
 item_ids:
 - ae2:meteorite_compass
-
 ---
 
 # 陨石罗盘

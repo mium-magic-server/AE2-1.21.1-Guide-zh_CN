@@ -12,7 +12,7 @@ navigation:
 
 categories:
 
-  - AE2扩展
+  - 扩展AE
 
 ---
 

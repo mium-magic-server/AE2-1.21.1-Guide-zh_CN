@@ -1,18 +1,18 @@
 ---
 
-导航:
+navigation:
 
-  父页面: appflux/appflux-index.md
+  parent: appflux/appflux-index.md
 
-  标题: 红石水晶
+  title: 红石水晶
 
-  图标: appflux:redstone_crystal
+  icon: appflux:redstone_crystal
 
-分类:
+categories:
 
 - 通量材料
 
-物品ID:
+item_ids:
 
 - appflux:redstone_crystal
 

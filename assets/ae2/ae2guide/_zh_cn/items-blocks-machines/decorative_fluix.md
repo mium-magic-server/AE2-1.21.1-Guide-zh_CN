@@ -1,11 +1,11 @@
 ---
 navigation:
-  parent: 物品-方块-机器/物品-方块-机器索引.md
+  parent: items-blocks-machines/items-blocks-machines-index.md
   title: 装饰性福鲁伊克斯方块
   icon: fluix_stairs
   position: 010
 categories:
-- 杂项 材料 方块
+- 杂项材料方块
 item_ids:
 - ae2:fluix_stairs
 - ae2:fluix_wall
